@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+marquee{
+    
+    border-radius: 10px;
+    color: rgb(216, 129, 14);
+    background-color: aqua;
+    font-size: 50px;
+    font-weight: 900;
+    height: 400px;
+    width: 80vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
